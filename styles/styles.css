@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: SteelBlue;
+  padding-top: 50px;
+}
+
+nav.top {
+  background-color: LightGray;
+  padding-top: 20px;
+  padding-left: 200px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  color: White;
+  font-size: 38pt;
+  padding-left: 200px;
+  padding-bottom: 0px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: White;
+  padding-top: 0px;
+  padding-left: 200px
+}
+
+h3 {
+  padding-left: 200px
+}
+
+h3.blue {
+  color: SkyBlue;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 200px;
+  padding-right: 50px;
+}
+
+p.aside {
+  padding-left: 0px;
+  padding-right: 100px;
+}
+
+blockquote {
+  color: SkyBlue;
+  padding-left: 200px;
+}
+
+a.one {
+  color: black;
+  text-decoration: none;
+}
+
+a.footer {
+  color: White;
+  text-decoration: none;
+}
+
+a {
+    color: LightBlue;
+}
+
+figcaption {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+img.logo {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img.freya {
+  padding: 15px;
+  width: 33%;
+  height: 500px;
+}
+
+aside {
+float: right;
+width: 30%;
+padding-left: 15px;
+margin-left: 15px;
+float: right;
+}
+
+p.footer {
+  color: White;
+  display: block;
+  margin-left: 600px;
+  margin-right: 600px;
+  text-align: center;
+
+}
+
+nav.footer {
+    color: White;
+    text-align: center;
+}
+
+footer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: DimGray;
+  clear: right;
+}
